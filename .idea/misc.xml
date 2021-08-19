@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/diego/AndroidStudioProjects/Consumo API GuiHub/RestApiGithubRepositories/app/src/main/res/layout/item_repo.xml" value="0.5" />
+        <entry key="..\:/Users/diego/AndroidStudioProjects/Consumo API GuiHub/app-repositories-base_project/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/diego/AndroidStudioProjects/Consumo API GuiHub/app-repositories-base_project/app/src/main/res/layout/item_repo.xml" value="0.6354556803995006" />
+        <entry key="..\:/Users/diego/AndroidStudioProjects/Consumo API GuiHub/app-repositories-base_project/app/src/main/res/menu/main_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/diego/AndroidStudioProjects/Consumo API GuiHub/rest-api-github-repositories/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

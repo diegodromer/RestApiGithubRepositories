@@ -1,0 +1,6 @@
+br/com/diegolima/app/repositories/BuildConfig.java
+ br.com.diegolima.app.repositories.BuildConfig
+br/com/diegolima/app/repositories/databinding/ActivityMainBinding.java
+ br.com.diegolima.app.repositories.databinding.ActivityMainBinding
+br/com/diegolima/app/repositories/databinding/ItemRepoBinding.java
+ br.com.diegolima.app.repositories.databinding.ItemRepoBinding
